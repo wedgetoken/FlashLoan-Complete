@@ -1,3 +1,4 @@
+//SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.5.0;
 
 import "https://github.com/pkdcryptos/OpenZeppelin-openzeppelin-solidity/blob/master/contracts/math/SafeMath.sol";

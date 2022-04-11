@@ -1,3 +1,4 @@
+//SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.5.0;
 
 import ' https://github.com/jklepatch/eattheblocks/blob/master/screencast/298-arbitrage-uniswap-sushiswap/contracts/UniswapV2Library.sol';
